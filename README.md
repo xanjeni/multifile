@@ -1,5 +1,5 @@
 # qwerty
 
 ---
-permalink:html/index2.html
+permalink: html/index2.html
 ---
